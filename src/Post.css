@@ -1,0 +1,23 @@
+.color1{
+    font-family:" Eudoxus Sans";
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+padding: 12px;
+
+}
+.heading{
+    font-family: Eudoxus Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0.03em;
+text-align: center;
+}
+.bgcolor{
+    background-color: #87bab1;
+    border-radius: 64px
+    ;
+}

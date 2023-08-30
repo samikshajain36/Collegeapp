@@ -1,0 +1,73 @@
+.heading{
+    font-family: Eudoxus Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0.03em;
+text-align: center;
+
+}
+.color{
+    background-color:  #F2FBFD;
+    
+}
+  .term{
+    color: #1877F2;
+
+  }
+  .button{
+    background-color: #025A68;
+    font-family: "Eudoxus Sans";
+font-size: 26px;
+font-weight: 700;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+
+  }
+  .react-tel-input .form-control{
+    border: none
+  }
+  .background{
+    background-color: #F8F4EB;
+    height: 600px;
+    width: 1366px;
+    padding: 20px;
+    justify-content: center
+    
+    ;
+  }
+  .h1{
+    font-family: "Eudoxus Sans";
+font-size: 40px;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0.03em;
+text-align: center;
+margin-top: 12px;
+  }
+  .course{
+    font-family: "Eudoxus Sans";
+font-size: 40px;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: center;
+
+  }
+  .title{
+    width: 1066px;
+    height: 30px;
+
+  }
+  .enroll{
+    width: 200px;
+height: 45px;
+border-radius: 3px;
+background-color: #043E52;
+color: white;
+  }

@@ -1,0 +1,119 @@
+.expert{
+    font-family: "Eudoxus Sans";
+font-size: 40px;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: center;
+
+}.bg1{
+    background-color: #F8F4EB;
+
+}
+.heading{
+    font-family:" Eudoxus Sans";
+font-size: 21px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0.04em;
+text-align: left;
+
+}
+.learn{
+    font-family: "Eudoxus Sans";
+font-size: 30px;
+font-weight: 500;
+line-height: 54px;
+letter-spacing: 0em;
+
+}
+.financial{
+    font-family: "Eudoxus Sans";
+font-size: 20px;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0em;
+background-color: #043E52;
+color: white;
+padding: 7px;
+width: 547px;
+border-radius: 7px;
+}
+.investment{
+    font-family:" Eudoxus Sans";
+font-size: 16px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0em;
+width: 266px;
+height: 70px;
+border-radius: 10px;
+margin-left: 3px;
+
+}
+.equaty{
+    font-family: "Eudoxus Sans";
+font-size: 16px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0em;
+width: 266px;
+height: 70px;
+border-radius: 10px
+
+}
+.investment2{
+    font-family:" Eudoxus Sans";
+font-size: 16px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0em;
+width: 178px;
+height: 70px;
+border-radius: 10px;
+margin-left: 3px;
+
+}
+.back{
+    font-family: "Eudoxus Sans";
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+background-color: #043E52;
+padding: 5px;
+color: white;
+border-radius: 7px;
+}
+.bg{
+    background-color: #25324AB2;
+    height: 400px;
+
+}
+.certified{
+    font-family: "Eudoxus Sans";
+font-size: 40px;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0em;
+margin-top: 12px;
+
+}
+.content{
+    font-family:" Eudoxus Sans";
+    margin-top: 5px;
+    margin-bottom: 5px;
+font-size: 20px;
+font-weight: 500;
+line-height: 33px;
+letter-spacing: 0em;
+max-width: 582px;
+text-align: left;
+
+}
+.img{
+    z-index: 1;
+    width:854px;
+    height:660px;   
+}
